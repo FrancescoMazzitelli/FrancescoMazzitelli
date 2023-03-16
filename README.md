@@ -1,11 +1,84 @@
+## My Github stats
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FrancescoMazzitelli&count_private=true&show_icons=true&theme=gruvbox&line_height=40)
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FrancescoMazzitelli&theme=gruvbox&langs_count=8&hide=css&count_private=true&show_icons=true&line_height=40)
 
 
 ## My skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,html,css,gherkin,mongo,mysql,docker,kubernetes,github,githubactions,vscode" />
-  </a>
-</p>
+<table style="border:auto;margin-left:auto;margin-right:auto;">
+  <tr>
+    <th>
+      <p align="left"> Languages </p>
+    </th>
+    <th>
+      <p align="left">Web development</p>
+    </th>
+    <th>
+      <p align="left">Testing</p>
+    </th>
+    <th>
+      <p align="left">Databases</p>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs" class="images"/>
+        </a>
+      </p>
+    </th>
+    <th>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,html,css" class="images"/>
+        </a>
+      </p>
+    </th>
+    <th>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=gherkin,selenium,githubactions" class="images"/>
+        </a>
+      </p>
+    </th>
+    <th>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mongo,mysql" class="images"/>
+        </a>
+      </p>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <p align="left">IDEs</p>
+    </th>
+    <th>
+      <p align="left">Deployment</p>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea,unity" class="images"/>
+        </a>
+      </p>
+    </th>
+    <th>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=docker,kubernetes,github" class="images"/>
+        </a>
+      </p>
+    </th>
+  </tr>
+</table>
+
+<style>
+  .images{
+    width:auto;
+    height:45px;
+  }
+</style>
