@@ -75,10 +75,3 @@
     </th>
   </tr>
 </table>
-
-<style>
-  .images{
-    width:auto;
-    height:45px;
-  }
-</style>
