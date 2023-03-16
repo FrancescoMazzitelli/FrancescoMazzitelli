@@ -8,16 +8,16 @@
 <table style="border:auto;margin-left:auto;margin-right:auto;">
   <tr>
     <th>
-      <p align="left"> Languages </p>
+      <p align="left">Languages: </p>
     </th>
     <th>
-      <p align="left">Web development</p>
+      <p align="left">Web development:</p>
     </th>
     <th>
-      <p align="left">Testing</p>
+      <p align="left">Testing:</p>
     </th>
     <th>
-      <p align="left">Databases</p>
+      <p align="left">Databases:</p>
     </th>
   </tr>
   <tr>
@@ -52,10 +52,10 @@
   </tr>
   <tr>
     <th>
-      <p align="left">IDEs</p>
+      <p align="left">IDEs:</p>
     </th>
     <th>
-      <p align="left">Deployment</p>
+      <p align="left">Deployment:</p>
     </th>
   </tr>
   <tr>
