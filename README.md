@@ -7,24 +7,21 @@
 
 <table style="border:auto;margin-left:auto;margin-right:auto;">
   <tr>
-    <th>
+    <th style="width:300px">
       <p align="left">Languages: </p>
     </th>
-    <th>
+    <th style="width:">
       <p align="left">Web development:</p>
     </th>
     <th>
       <p align="left">Testing:</p>
-    </th>
-    <th>
-      <p align="left">Databases:</p>
     </th>
   </tr>
   <tr>
     <th>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs" class="images"/>
+          <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs,r" class="images"/>
         </a>
       </p>
     </th>
@@ -42,13 +39,6 @@
         </a>
       </p>
     </th>
-    <th>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mongo,mysql" class="images"/>
-        </a>
-      </p>
-    </th>
   </tr>
   <tr>
     <th>
@@ -56,6 +46,9 @@
     </th>
     <th>
       <p align="left">Deployment:</p>
+    </th>
+    <th>
+      <p align="left">Databases:</p>
     </th>
   </tr>
   <tr>
@@ -70,6 +63,13 @@
       <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=docker,kubernetes,github" class="images"/>
+        </a>
+      </p>
+    </th>
+    <th>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mongo,mysql" class="images"/>
         </a>
       </p>
     </th>
