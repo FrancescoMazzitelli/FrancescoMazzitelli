@@ -55,7 +55,7 @@
     <th>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea,unity" class="images"/>
+          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea,unity,androidstudio" class="images"/>
         </a>
       </p>
     </th>
