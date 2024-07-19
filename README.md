@@ -69,7 +69,7 @@
     <th>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mongo,MySQL,redis" class="images"/>
+          <img src="https://skillicons.dev/icons?i=mongo,mysql,redis" class="images"/>
         </a>
       </p>
     </th>
