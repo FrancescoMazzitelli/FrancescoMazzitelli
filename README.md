@@ -21,14 +21,14 @@
     <th>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs,r" class="images"/>
+          <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs,r,dart" class="images"/>
         </a>
       </p>
     </th>
     <th>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=js,html,css" class="images"/>
+          <img src="https://skillicons.dev/icons?i=js,html,css,flutter" class="images"/>
         </a>
       </p>
     </th>
