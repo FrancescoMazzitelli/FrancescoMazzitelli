@@ -1,6 +1,6 @@
 ## My Github stats
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FrancescoMazzitelli&count_private=true&show_icons=true&theme=gruvbox&line_height=40)
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FrancescoMazzitelli&theme=gruvbox&langs_count=8&hide=css&count_private=true&show_icons=true&line_height=40)
+![FrancescoMazzitelli's Stats](https://github-readme-stats.vercel.app/api?username=FrancescoMazzitelli&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+![FrancescoMazzitelli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoMazzitelli&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
 
 ## My skills
