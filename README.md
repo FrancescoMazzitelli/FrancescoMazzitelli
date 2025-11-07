@@ -1,6 +1,6 @@
 ## My Github stats
 
-| ![FrancescoMazzitelli's Stats](https://github-readme-stats.vercel.app/api?username=FrancescoMazzitelli&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)  | ![FrancescoMazzitelli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoMazzitelli&theme=gruvbox&show_icons=true&hide_border=false&layout=normal&exclude_repo=SoftwareEvolutionToolchainWrapper)  |
+| ![FrancescoMazzitelli's Stats](https://github-readme-stats.vercel.app/api?username=FrancescoMazzitelli&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)  | ![FrancescoMazzitelli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoMazzitelli&theme=gruvbox&show_icons=true&hide_border=false&layout=donut-vertical&exclude_repo=SoftwareEvolutionToolchainWrapper)  |
 |:------------:|:------------:|
 
 
